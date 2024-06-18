@@ -1,1 +1,4 @@
-seataio/seata-server:2.0.0
+apache/seata-server:2.1.0
+nacos/nacos-server:v2.3.2
+rabbitmq:3.13.0-management
+--platform=linux/amd64 redis:bookworm

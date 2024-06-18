@@ -1,4 +1,4 @@
-apache/seata-server:2.1.0
-nacos/nacos-server:v2.3.2
-rabbitmq:3.13.0-management
---platform=linux/amd64 redis:bookworm
+--platform=linux/amd64 zookeeper:3.9.2
+--platform=linux/amd64 mysql:8.0.33
+--platform=linux/amd64 elasticsearch:7.17.18
+--platform=linux/amd64 kibana:7.17.18

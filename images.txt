@@ -1,4 +1,1 @@
---platform=linux/amd64 zookeeper:3.9.2
---platform=linux/amd64 mysql:8.0.33
---platform=linux/amd64 elasticsearch:7.17.18
---platform=linux/amd64 kibana:7.17.18
+--platform=linux/amd64 jenkins/jenkins:2.452.2-lts-jdk17

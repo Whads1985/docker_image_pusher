@@ -1,3 +1,4 @@
---platform=linux/amd64 jenkins/jenkins:2.452.2-lts-jdk17
---platform=linux/amd64 jenkins/inbound-agent:3248.v65ecb_254c298-6-jdk17
---platform=linux/amd64 jenkins/inbound-agent:latest-jdk17
+# --platform=linux/amd64 jenkins/jenkins:2.452.2-lts-jdk17
+# --platform=linux/amd64 jenkins/inbound-agent:3248.v65ecb_254c298-6-jdk17
+# --platform=linux/amd64 jenkins/inbound-agent:latest-jdk17
+--platform=linux/amd64 eclipse-temurin:17-jre-alpine

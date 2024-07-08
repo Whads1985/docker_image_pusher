@@ -3,4 +3,4 @@
 # --platform=linux/amd64 jenkins/inbound-agent:latest-jdk17
 # --platform=linux/amd64 eclipse-temurin:17-jre-alpine
 # --platform=linux/amd64 python:3.10-alpine 
---platform=linux/amd64 laylei/aliyun-exporter:0.3.1
+aylei/aliyun-exporter:0.3.1
